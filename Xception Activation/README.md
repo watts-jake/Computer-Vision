@@ -1,6 +1,3 @@
-# Biweekly Report 3
-# Jake Watts
-
 ## Xception_Activation.ipynb
 I implement and train the Xception network and compare it's performance using ReLU, ELU and no activation function on Cifar-10 data.
 
